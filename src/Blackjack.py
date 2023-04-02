@@ -1,6 +1,6 @@
 """Blackjack Game"""
 from src.Deck import Deck
-from Player import Player
+from src.Player import Player
 from os import system, name
 import time
 import datetime
